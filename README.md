@@ -7,6 +7,22 @@ View a list of all invoices.
 Edit or delete existing invoices.
 Simple and user-friendly interface.
 Built-in validation and error handling.
+# Screen Shots
+HOME
+![home](https://github.com/user-attachments/assets/805972dc-1132-4122-b66b-523ea7bdeb9e)
+LogIn
+![login](https://github.com/user-attachments/assets/7c684b74-179d-4131-8aad-9ad46b38496d)
+Invoices
+![invoices](https://github.com/user-attachments/assets/3381738d-3710-4daf-973d-490befeedac8)
+Users
+![users](https://github.com/user-attachments/assets/0b883d1e-eadb-4d47-9fc3-cae8d086fffc)
+Roles
+![roles](https://github.com/user-attachments/assets/0aaf103a-4ad0-46b4-83d4-592a490c3d71)
+Sections
+![section1](https://github.com/user-attachments/assets/7167a503-810b-4af1-a5da-a6b6e63d6e97)
+Product
+![product](https://github.com/user-attachments/assets/87596076-5171-42ec-8ef5-c33c5263b96f)
+
 # Technologies Used
 Laravel: PHP framework (v11.x).
 MySQL: Database for storing invoices and related data.
